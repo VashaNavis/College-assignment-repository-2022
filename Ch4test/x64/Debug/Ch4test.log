@@ -1,0 +1,4 @@
+﻿  Ch4test.cpp
+C:\Users\spa11\source\repos\Ch4test\Ch4test.cpp(29,6): warning C4101: 'AM': unreferenced local variable
+C:\Users\spa11\source\repos\Ch4test\Ch4test.cpp(29,10): warning C4101: 'PM': unreferenced local variable
+  Ch4test.vcxproj -> C:\Users\spa11\source\repos\Ch4test\x64\Debug\Ch4test.exe
